@@ -1,0 +1,11 @@
+body {
+    width: 100vh;
+    text-align: left;
+    margin: auto;
+    font-family: fantasy;
+}
+
+img {
+    width: 325px;
+    height: 400px;
+}
