@@ -8,4 +8,35 @@ body {
 img {
     width: 325px;
     height: 400px;
+    border-radius: 8px;
+}
+
+.pasta {
+    background-color: darkolivegreen;
+    color: white;
+    font-weight: bold;
+}
+
+.flame {
+    background-color: firebrick;
+    color: white;
+    font-weight: bold;
+}
+
+.tofu {
+    background-color: peru;
+    color: white;
+    font-weight: bold;
+}
+
+.home {
+    background-color: ivory;
+    text-align: center;
+    
+}
+
+ul {
+    width: auto;
+    text-align: left;
+    display: inline-block;
 }
