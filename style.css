@@ -36,7 +36,12 @@ img {
 }
 
 ul {
-    width: auto;
+    
     text-align: left;
     display: inline-block;
+}
+
+.pop {
+    width: 325px;
+    height: 275px;
 }
