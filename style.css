@@ -1,32 +1,35 @@
 body {
     width: 100vh;
-    text-align: left;
     margin: auto;
     font-family: fantasy;
+    font-weight: bold;
 }
 
 img {
     width: 325px;
     height: 400px;
     border-radius: 8px;
+    transition: 1s;
+}
+
+img:hover {
+    width: 350px;
+    height: 425px;
 }
 
 .pasta {
     background-color: darkolivegreen;
     color: white;
-    font-weight: bold;
 }
 
 .flame {
     background-color: firebrick;
     color: white;
-    font-weight: bold;
 }
 
 .tofu {
     background-color: peru;
     color: white;
-    font-weight: bold;
 }
 
 .home {
@@ -36,9 +39,17 @@ img {
 }
 
 ul {
-    
     text-align: left;
     display: inline-block;
+}
+
+.homepage li {
+    transition: .5s;
+    margin: .5rem;
+}
+
+.homepage li:hover {
+    font-size: 18px;
 }
 
 .pop {
