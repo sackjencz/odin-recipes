@@ -17,6 +17,11 @@ img:hover {
     height: 425px;
 }
 
+.pop:hover {
+    width: 350px;
+    height: 300px;
+}
+
 .pasta {
     background-color: darkolivegreen;
     color: white;
